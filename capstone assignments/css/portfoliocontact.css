@@ -52,7 +52,7 @@ aside p i{
  	width: 30%;
  	float:left;
  	padding: 5% 0;
- 	padding-bottom: 5%;
+ 	/*padding-bottom: 5%;*/
  	}
 
 .left img {
@@ -67,7 +67,7 @@ aside p i{
  	width: 30%;
  	float:right;
  	padding: 5% 0;
- 	padding-bottom: 5%;
+ 	/*padding-bottom: 5%;*/
  	}
 
 .right img{
